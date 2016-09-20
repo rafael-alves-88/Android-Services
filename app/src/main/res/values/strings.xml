@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoServices</string>
+    <string name="iniciar_servico">Iniciar Serviço</string>
+    <string name="parar_servico">Parar Serviço</string>
+    <string name="baixar_imagem">Baixar Imagem</string>
+    <string name="url_da_imagem">URL da imagem</string>
+</resources>
